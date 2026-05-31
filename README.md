@@ -36,3 +36,9 @@ Designed and implemented a complete inventory control system from scratch using 
 Focused on solving real inventory problems: identifying root causes, reducing stock risk, and supporting data-driven decisions that improve operational efficiency.
 
 Currently building a Data Analytics portfolio specialized in Supply Chain and Inventory Management - bridging the gap between field experience and analytical tools.
+
+Notebook 1:
+https://nbviewer.org/github/raulfariashernandez/supply-chain-analytics/blob/main/Supply%20Chain%20(Kaggle%20%E2%80%94%20beauty%20products).ipynb
+
+Notebook 2:
+https://nbviewer.org/github/raulfariashernandez/supply-chain-analytics/blob/main/Warehouse%20Inventory.ipynb
